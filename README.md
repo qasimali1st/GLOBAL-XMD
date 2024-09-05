@@ -16,15 +16,10 @@
 | --------| ----- | ---- | ----- | -------- | ------- | ------- | ------|---------| -----|
 | Work ➜ |   ✅  |   ✅ |   ✅  |    ✅    |    ✅   |    ✅   |   ✅  |    ✅   |  ✅  |
 <p align="center">
-## PAIR SERVER 1
 <a href='https://globalpair-code.onrender.com/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/PAIRING CODE-1-green?style=for-the-badge&logo=opencv&logoColor=white'/></a>
-
-## PAIR SERVER 2
-
 <a href='https://replit.com/@tlptrends92/GLOBAL-SESSIONS#main.sh' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/PAIRING CODE-2-green?style=for-the-badge&logo=opencv&logoColor=white'/></a>
-
-`AFTER YOU GET CREDS FILE UPLOAD IT INSIDE SESSION FOLDER OF FORK`
 <p>
+`AFTER YOU GET CREDS FILE UPLOAD IT INSIDE SESSION FOLDER OF FORK`
 ### DEPLOY TO HEROKU 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GlobalTechInfo/GLOBAL-XMD)
